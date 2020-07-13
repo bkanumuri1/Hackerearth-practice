@@ -1,5 +1,7 @@
 # Hackerearth - Basic Programming - Input/Output - Basics of Input/Output - Cost of Balloons
 
+print("Hello there!")
+
 t = int(input())
 for testcase in range(t):
     cost1, cost2 = 0 , 0
